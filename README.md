@@ -1,11 +1,12 @@
 # training
 getting started with nodejs
 
-download and access the directory and run : 
+1) clone and browse to tour directory
+2) run : 
 npm install
 to install the dependencies
 
-run : npm run start
+3 ) run : npm run start
 to run the server and test
 
 
