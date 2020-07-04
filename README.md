@@ -6,7 +6,7 @@ getting started with nodejs
 npm install
 to install the dependencies
 
-3 ) run : npm run start
+3) run : npm run start
 to run the server and test
 
 
